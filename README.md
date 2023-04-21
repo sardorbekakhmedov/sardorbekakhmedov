@@ -1,4 +1,4 @@
-# Sardorbek_Akhmedov
+# Sardorbek Akhmedov
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/leverow/leverow/main/cover_leverow.png" alt="Sardorbek"/>
