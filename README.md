@@ -1,4 +1,3 @@
-<!--------------------------------  /// 
 
 # Sardorbek Akhmedov
 
@@ -15,9 +14,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sardorbecakhmedov&show_icons=true&theme=synthwave" alt="Sardorbek :: Profile Stats" /></p>
 
 
-
-  ------------------------------->
-
+<!--------------------------------  /// 
 
 <p align="center">
 <img src="./cover_leverow.png" alt="Leverow"/>
@@ -36,3 +33,5 @@
 - Telegram: <a href = "https://t.me/leverow">Leverow</a>
 - Website: <a href = "https://leverow.uz">Leverow.uz</a>
 <br>
+
+  ------------------------------->
